@@ -14,3 +14,20 @@ print("Zeros d:",d)
 print("Ones e:",e)
 print("Identity matrix f:",f)
 print("Random matrix g:",g)
+
+Output:
+Array a: [1 2 3 4 5]
+Arrange b: [1 3 5 7 9]
+Linspace c: [ 0.   2.5  5.   7.5 10. ]
+Zeros d: [[0. 0. 0.]
+ [0. 0. 0.]
+ [0. 0. 0.]]
+Ones e: [[1. 1. 1.]
+ [1. 1. 1.]
+ [1. 1. 1.]]
+Identity matrix f: [[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+Random matrix g: [[44  5 91]
+ [95 46 85]
+ [44 50 21]]
