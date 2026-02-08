@@ -1,7 +1,7 @@
 ## NumPy Array Example
 
-| Code | Output |
-|------|--------|
+|     Code             | Output            |
+|------                |           --------|
 | ```python
 import numpy as np
 
@@ -38,3 +38,4 @@ Identity matrix f:
  [0. 1. 0.]
  [0. 0. 1.]]
 ``` |
+
