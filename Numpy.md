@@ -1,23 +1,26 @@
 ## NumPy Array Example
 
-| Code | 
-|------|
-| python |
+| Code | Output |
+|------|--------|
+| ```python
 import numpy as np
 
-a = np.array([1,2,3,4,5])
-b = np.arange(1,10,2)
-c = np.linspace(0,10,5)
-d = np.zeros((3,3))
-e = np.ones((3,3))
+a = np.array([1, 2, 3, 4, 5])
+b = np.arange(1, 10, 2)
+c = np.linspace(0, 10, 5)
+d = np.zeros((3, 3))
+e = np.ones((3, 3))
 f = np.eye(3)
 
 print("Array a:", a)
 print("Arange b:", b)
 print("Linspace c:", c)
-print("Zeros d:", d)
-print("Ones e:", e)
-print("Identity matrix f:", f)
+print("Zeros d:")
+print(d)
+print("Ones e:")
+print(e)
+print("Identity matrix f:")
+print(f)
 ``` | ```text
 Array a: [1 2 3 4 5]
 Arange b: [1 3 5 7 9]
