@@ -1,6 +1,9 @@
 # Data-Science-Tool-Kit-Lab-11249A381-
 R.Y.Thrayambaha Balajee,11249A381,B.E(CSE) S4 2nd year.
 
+Google Collab : https://drive.google.com/drive/folders/1R-zxCReV5t_X9fb_Udjo6hKo9xgLQga1
+
+
 EXERCISES
 1. Introduction to Python Libraries- Numpy, Pandas, Matplotlib, Scikit
 2. Perform Data exploration and preprocessing in Python
